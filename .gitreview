@@ -1,5 +1,5 @@
 [gerrit]
-host=review.openstack.org
+host=review.gerrithub.io
 port=29418
-project=openstack/os-vif.git
-defaultbranch=stable/pike
+project=intel-orchestration-software/os-vif.git
+defaultbranch=virtio-direct
